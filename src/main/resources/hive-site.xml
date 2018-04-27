@@ -1,0 +1,6 @@
+<configuration>
+  <property>
+    <name>hive.server2.thrift.resultset.default.fetch.size</name>
+    <value>10</value>
+  </property>
+</configuration>
